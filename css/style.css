@@ -155,7 +155,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .btn-custom {
 	text-transform: uppercase;
 	color: #fff;
-	background-color: #72a411;
+	background-color: #f774e0;
 	border: 0;
 	padding: 14px 20px;
 	margin: 0;
@@ -415,10 +415,10 @@ ol.type li a:hover {
 	padding: 90px 0;
 	color: #fff;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#8eb640+50,779936+100 */
-	background: rgb(142,182,64); /* Old browsers */
-	background: -moz-linear-gradient(top, rgba(142,182,64,1) 50%, rgba(119,153,54,1) 100%); /* FF3.6-15 */
-	background: -webkit-linear-gradient(top, rgba(142,182,64,1) 50%, rgba(119,153,54,1) 100%); /* Chrome10-25,Safari5.1-6 */
-	background: linear-gradient(to bottom, rgba(142,182,64,1) 50%, rgba(119,153,54,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	background: rgb(245, 198, 236); /* Old browsers */
+	background: -moz-linear-gradient(top, rgba(245, 198, 236,1) 50%, rgba(247, 225, 243,1) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(top, rgba(245, 198, 236,1) 50%, rgba(247, 225, 243,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to bottom, rgba(245, 198, 236,1) 50%, rgba(247, 225, 243,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5c6ec', endColorstr='#f5c6ec', GradientType=0 ); /* IE6-9 */
 }
 #call-reservation .overlay {
