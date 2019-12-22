@@ -521,7 +521,7 @@ color: #777;
 	padding: 50px 0 0 0;
 }
 #footer h3 {
-	color: #f5c6ec;
+	color: hsl(311, 44%, 75%);
 	font-weight: 400;
 	font-size: 18px;
 	text-transform: uppercase;
@@ -531,10 +531,10 @@ color: #777;
 	padding: 20px 0;
 	margin-top: 50px;
 	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f5c6ec+0,8eb640+50 */
-background: #f5c6ec; /* Old browsers */
-background: -moz-linear-gradient(top,  #f5c6ec 0%, #f5c6ec 50%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  #f5c6ec 0%,#f5c6ec 50%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  #f5c6ec 0%,#f5c6ec 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+background: hsl(311, 44%, 75%);; /* Old browsers */
+background: -moz-linear-gradient(top,  hsl(311, 44%, 75%);ec 0%, hsl(311, 44%, 75%); 50%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  hsl(311, 44%, 75%);0%,hsl(311, 44%, 75%); 50%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  hsl(311, 44%, 75%); 0%,hsl(311, 44%, 75%); 50%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f5c6ec', endColorstr='#f5c6ec', GradientType=0 ); /* IE6-9 */
 }
 #footer .social {
